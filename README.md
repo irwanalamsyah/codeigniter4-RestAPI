@@ -6,3 +6,4 @@ Menampilakan semua data JSON
 ## http://localhost:8080/koordinat/{id}
 Menampilakn singel data JSON
 # restapi
+# codeigniter4-RestAPI
